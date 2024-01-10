@@ -1,0 +1,15 @@
+C:\Users\shrah\source\repos\DesignPattern\IteratorPattern\bin\Debug\net8.0\IteratorPattern.exe
+C:\Users\shrah\source\repos\DesignPattern\IteratorPattern\bin\Debug\net8.0\IteratorPattern.deps.json
+C:\Users\shrah\source\repos\DesignPattern\IteratorPattern\bin\Debug\net8.0\IteratorPattern.runtimeconfig.json
+C:\Users\shrah\source\repos\DesignPattern\IteratorPattern\bin\Debug\net8.0\IteratorPattern.dll
+C:\Users\shrah\source\repos\DesignPattern\IteratorPattern\bin\Debug\net8.0\IteratorPattern.pdb
+C:\Users\shrah\source\repos\DesignPattern\IteratorPattern\obj\Debug\net8.0\IteratorPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shrah\source\repos\DesignPattern\IteratorPattern\obj\Debug\net8.0\IteratorPattern.AssemblyInfoInputs.cache
+C:\Users\shrah\source\repos\DesignPattern\IteratorPattern\obj\Debug\net8.0\IteratorPattern.AssemblyInfo.cs
+C:\Users\shrah\source\repos\DesignPattern\IteratorPattern\obj\Debug\net8.0\IteratorPattern.csproj.CoreCompileInputs.cache
+C:\Users\shrah\source\repos\DesignPattern\IteratorPattern\obj\Debug\net8.0\IteratorPattern.sourcelink.json
+C:\Users\shrah\source\repos\DesignPattern\IteratorPattern\obj\Debug\net8.0\IteratorPattern.dll
+C:\Users\shrah\source\repos\DesignPattern\IteratorPattern\obj\Debug\net8.0\refint\IteratorPattern.dll
+C:\Users\shrah\source\repos\DesignPattern\IteratorPattern\obj\Debug\net8.0\IteratorPattern.pdb
+C:\Users\shrah\source\repos\DesignPattern\IteratorPattern\obj\Debug\net8.0\IteratorPattern.genruntimeconfig.cache
+C:\Users\shrah\source\repos\DesignPattern\IteratorPattern\obj\Debug\net8.0\ref\IteratorPattern.dll

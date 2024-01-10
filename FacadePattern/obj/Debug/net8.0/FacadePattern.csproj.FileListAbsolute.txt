@@ -1,0 +1,15 @@
+C:\Users\shrah\source\repos\DesignPattern\FacadePattern\bin\Debug\net8.0\FacadePattern.exe
+C:\Users\shrah\source\repos\DesignPattern\FacadePattern\bin\Debug\net8.0\FacadePattern.deps.json
+C:\Users\shrah\source\repos\DesignPattern\FacadePattern\bin\Debug\net8.0\FacadePattern.runtimeconfig.json
+C:\Users\shrah\source\repos\DesignPattern\FacadePattern\bin\Debug\net8.0\FacadePattern.dll
+C:\Users\shrah\source\repos\DesignPattern\FacadePattern\bin\Debug\net8.0\FacadePattern.pdb
+C:\Users\shrah\source\repos\DesignPattern\FacadePattern\obj\Debug\net8.0\FacadePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shrah\source\repos\DesignPattern\FacadePattern\obj\Debug\net8.0\FacadePattern.AssemblyInfoInputs.cache
+C:\Users\shrah\source\repos\DesignPattern\FacadePattern\obj\Debug\net8.0\FacadePattern.AssemblyInfo.cs
+C:\Users\shrah\source\repos\DesignPattern\FacadePattern\obj\Debug\net8.0\FacadePattern.csproj.CoreCompileInputs.cache
+C:\Users\shrah\source\repos\DesignPattern\FacadePattern\obj\Debug\net8.0\FacadePattern.sourcelink.json
+C:\Users\shrah\source\repos\DesignPattern\FacadePattern\obj\Debug\net8.0\FacadePattern.dll
+C:\Users\shrah\source\repos\DesignPattern\FacadePattern\obj\Debug\net8.0\refint\FacadePattern.dll
+C:\Users\shrah\source\repos\DesignPattern\FacadePattern\obj\Debug\net8.0\FacadePattern.pdb
+C:\Users\shrah\source\repos\DesignPattern\FacadePattern\obj\Debug\net8.0\FacadePattern.genruntimeconfig.cache
+C:\Users\shrah\source\repos\DesignPattern\FacadePattern\obj\Debug\net8.0\ref\FacadePattern.dll

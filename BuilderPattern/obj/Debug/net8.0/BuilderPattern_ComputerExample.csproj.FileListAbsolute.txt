@@ -1,0 +1,15 @@
+C:\Users\shrah\source\repos\DesignPattern\BuilderPattern\bin\Debug\net8.0\BuilderPattern_ComputerExample.exe
+C:\Users\shrah\source\repos\DesignPattern\BuilderPattern\bin\Debug\net8.0\BuilderPattern_ComputerExample.deps.json
+C:\Users\shrah\source\repos\DesignPattern\BuilderPattern\bin\Debug\net8.0\BuilderPattern_ComputerExample.runtimeconfig.json
+C:\Users\shrah\source\repos\DesignPattern\BuilderPattern\bin\Debug\net8.0\BuilderPattern_ComputerExample.dll
+C:\Users\shrah\source\repos\DesignPattern\BuilderPattern\bin\Debug\net8.0\BuilderPattern_ComputerExample.pdb
+C:\Users\shrah\source\repos\DesignPattern\BuilderPattern\obj\Debug\net8.0\BuilderPattern_ComputerExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shrah\source\repos\DesignPattern\BuilderPattern\obj\Debug\net8.0\BuilderPattern_ComputerExample.AssemblyInfoInputs.cache
+C:\Users\shrah\source\repos\DesignPattern\BuilderPattern\obj\Debug\net8.0\BuilderPattern_ComputerExample.AssemblyInfo.cs
+C:\Users\shrah\source\repos\DesignPattern\BuilderPattern\obj\Debug\net8.0\BuilderPattern_ComputerExample.csproj.CoreCompileInputs.cache
+C:\Users\shrah\source\repos\DesignPattern\BuilderPattern\obj\Debug\net8.0\BuilderPattern_ComputerExample.sourcelink.json
+C:\Users\shrah\source\repos\DesignPattern\BuilderPattern\obj\Debug\net8.0\BuilderPattern_ComputerExample.dll
+C:\Users\shrah\source\repos\DesignPattern\BuilderPattern\obj\Debug\net8.0\refint\BuilderPattern_ComputerExample.dll
+C:\Users\shrah\source\repos\DesignPattern\BuilderPattern\obj\Debug\net8.0\BuilderPattern_ComputerExample.pdb
+C:\Users\shrah\source\repos\DesignPattern\BuilderPattern\obj\Debug\net8.0\BuilderPattern_ComputerExample.genruntimeconfig.cache
+C:\Users\shrah\source\repos\DesignPattern\BuilderPattern\obj\Debug\net8.0\ref\BuilderPattern_ComputerExample.dll

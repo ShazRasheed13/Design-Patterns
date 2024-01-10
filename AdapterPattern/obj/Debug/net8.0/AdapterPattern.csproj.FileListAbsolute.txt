@@ -1,0 +1,15 @@
+C:\Users\shrah\source\repos\DesignPattern\AdapterPattern\bin\Debug\net8.0\AdapterPattern.exe
+C:\Users\shrah\source\repos\DesignPattern\AdapterPattern\bin\Debug\net8.0\AdapterPattern.deps.json
+C:\Users\shrah\source\repos\DesignPattern\AdapterPattern\bin\Debug\net8.0\AdapterPattern.runtimeconfig.json
+C:\Users\shrah\source\repos\DesignPattern\AdapterPattern\bin\Debug\net8.0\AdapterPattern.dll
+C:\Users\shrah\source\repos\DesignPattern\AdapterPattern\bin\Debug\net8.0\AdapterPattern.pdb
+C:\Users\shrah\source\repos\DesignPattern\AdapterPattern\obj\Debug\net8.0\AdapterPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shrah\source\repos\DesignPattern\AdapterPattern\obj\Debug\net8.0\AdapterPattern.AssemblyInfoInputs.cache
+C:\Users\shrah\source\repos\DesignPattern\AdapterPattern\obj\Debug\net8.0\AdapterPattern.AssemblyInfo.cs
+C:\Users\shrah\source\repos\DesignPattern\AdapterPattern\obj\Debug\net8.0\AdapterPattern.csproj.CoreCompileInputs.cache
+C:\Users\shrah\source\repos\DesignPattern\AdapterPattern\obj\Debug\net8.0\AdapterPattern.sourcelink.json
+C:\Users\shrah\source\repos\DesignPattern\AdapterPattern\obj\Debug\net8.0\AdapterPattern.dll
+C:\Users\shrah\source\repos\DesignPattern\AdapterPattern\obj\Debug\net8.0\refint\AdapterPattern.dll
+C:\Users\shrah\source\repos\DesignPattern\AdapterPattern\obj\Debug\net8.0\AdapterPattern.pdb
+C:\Users\shrah\source\repos\DesignPattern\AdapterPattern\obj\Debug\net8.0\AdapterPattern.genruntimeconfig.cache
+C:\Users\shrah\source\repos\DesignPattern\AdapterPattern\obj\Debug\net8.0\ref\AdapterPattern.dll

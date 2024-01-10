@@ -1,0 +1,15 @@
+C:\Users\shrah\source\repos\DesignPattern\BridgePattern\bin\Debug\net8.0\BridgePattern.exe
+C:\Users\shrah\source\repos\DesignPattern\BridgePattern\bin\Debug\net8.0\BridgePattern.deps.json
+C:\Users\shrah\source\repos\DesignPattern\BridgePattern\bin\Debug\net8.0\BridgePattern.runtimeconfig.json
+C:\Users\shrah\source\repos\DesignPattern\BridgePattern\bin\Debug\net8.0\BridgePattern.dll
+C:\Users\shrah\source\repos\DesignPattern\BridgePattern\bin\Debug\net8.0\BridgePattern.pdb
+C:\Users\shrah\source\repos\DesignPattern\BridgePattern\obj\Debug\net8.0\BridgePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shrah\source\repos\DesignPattern\BridgePattern\obj\Debug\net8.0\BridgePattern.AssemblyInfoInputs.cache
+C:\Users\shrah\source\repos\DesignPattern\BridgePattern\obj\Debug\net8.0\BridgePattern.AssemblyInfo.cs
+C:\Users\shrah\source\repos\DesignPattern\BridgePattern\obj\Debug\net8.0\BridgePattern.csproj.CoreCompileInputs.cache
+C:\Users\shrah\source\repos\DesignPattern\BridgePattern\obj\Debug\net8.0\BridgePattern.sourcelink.json
+C:\Users\shrah\source\repos\DesignPattern\BridgePattern\obj\Debug\net8.0\BridgePattern.dll
+C:\Users\shrah\source\repos\DesignPattern\BridgePattern\obj\Debug\net8.0\refint\BridgePattern.dll
+C:\Users\shrah\source\repos\DesignPattern\BridgePattern\obj\Debug\net8.0\BridgePattern.pdb
+C:\Users\shrah\source\repos\DesignPattern\BridgePattern\obj\Debug\net8.0\BridgePattern.genruntimeconfig.cache
+C:\Users\shrah\source\repos\DesignPattern\BridgePattern\obj\Debug\net8.0\ref\BridgePattern.dll

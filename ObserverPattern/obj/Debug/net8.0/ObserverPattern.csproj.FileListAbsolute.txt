@@ -1,0 +1,15 @@
+C:\Users\shrah\source\repos\DesignPattern\ObserverPattern\bin\Debug\net8.0\ObserverPattern.exe
+C:\Users\shrah\source\repos\DesignPattern\ObserverPattern\bin\Debug\net8.0\ObserverPattern.deps.json
+C:\Users\shrah\source\repos\DesignPattern\ObserverPattern\bin\Debug\net8.0\ObserverPattern.runtimeconfig.json
+C:\Users\shrah\source\repos\DesignPattern\ObserverPattern\bin\Debug\net8.0\ObserverPattern.dll
+C:\Users\shrah\source\repos\DesignPattern\ObserverPattern\bin\Debug\net8.0\ObserverPattern.pdb
+C:\Users\shrah\source\repos\DesignPattern\ObserverPattern\obj\Debug\net8.0\ObserverPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shrah\source\repos\DesignPattern\ObserverPattern\obj\Debug\net8.0\ObserverPattern.AssemblyInfoInputs.cache
+C:\Users\shrah\source\repos\DesignPattern\ObserverPattern\obj\Debug\net8.0\ObserverPattern.AssemblyInfo.cs
+C:\Users\shrah\source\repos\DesignPattern\ObserverPattern\obj\Debug\net8.0\ObserverPattern.csproj.CoreCompileInputs.cache
+C:\Users\shrah\source\repos\DesignPattern\ObserverPattern\obj\Debug\net8.0\ObserverPattern.sourcelink.json
+C:\Users\shrah\source\repos\DesignPattern\ObserverPattern\obj\Debug\net8.0\ObserverPattern.dll
+C:\Users\shrah\source\repos\DesignPattern\ObserverPattern\obj\Debug\net8.0\refint\ObserverPattern.dll
+C:\Users\shrah\source\repos\DesignPattern\ObserverPattern\obj\Debug\net8.0\ObserverPattern.pdb
+C:\Users\shrah\source\repos\DesignPattern\ObserverPattern\obj\Debug\net8.0\ObserverPattern.genruntimeconfig.cache
+C:\Users\shrah\source\repos\DesignPattern\ObserverPattern\obj\Debug\net8.0\ref\ObserverPattern.dll

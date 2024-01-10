@@ -1,0 +1,15 @@
+C:\Users\shrah\source\repos\DesignPattern\MementoPattern\bin\Debug\net8.0\MementoPattern.exe
+C:\Users\shrah\source\repos\DesignPattern\MementoPattern\bin\Debug\net8.0\MementoPattern.deps.json
+C:\Users\shrah\source\repos\DesignPattern\MementoPattern\bin\Debug\net8.0\MementoPattern.runtimeconfig.json
+C:\Users\shrah\source\repos\DesignPattern\MementoPattern\bin\Debug\net8.0\MementoPattern.dll
+C:\Users\shrah\source\repos\DesignPattern\MementoPattern\bin\Debug\net8.0\MementoPattern.pdb
+C:\Users\shrah\source\repos\DesignPattern\MementoPattern\obj\Debug\net8.0\MementoPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shrah\source\repos\DesignPattern\MementoPattern\obj\Debug\net8.0\MementoPattern.AssemblyInfoInputs.cache
+C:\Users\shrah\source\repos\DesignPattern\MementoPattern\obj\Debug\net8.0\MementoPattern.AssemblyInfo.cs
+C:\Users\shrah\source\repos\DesignPattern\MementoPattern\obj\Debug\net8.0\MementoPattern.csproj.CoreCompileInputs.cache
+C:\Users\shrah\source\repos\DesignPattern\MementoPattern\obj\Debug\net8.0\MementoPattern.sourcelink.json
+C:\Users\shrah\source\repos\DesignPattern\MementoPattern\obj\Debug\net8.0\MementoPattern.dll
+C:\Users\shrah\source\repos\DesignPattern\MementoPattern\obj\Debug\net8.0\refint\MementoPattern.dll
+C:\Users\shrah\source\repos\DesignPattern\MementoPattern\obj\Debug\net8.0\MementoPattern.pdb
+C:\Users\shrah\source\repos\DesignPattern\MementoPattern\obj\Debug\net8.0\MementoPattern.genruntimeconfig.cache
+C:\Users\shrah\source\repos\DesignPattern\MementoPattern\obj\Debug\net8.0\ref\MementoPattern.dll

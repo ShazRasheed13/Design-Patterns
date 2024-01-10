@@ -1,0 +1,15 @@
+C:\Users\shrah\source\repos\DesignPattern\InterpreterPattern\bin\Debug\net8.0\InterpreterPattern.exe
+C:\Users\shrah\source\repos\DesignPattern\InterpreterPattern\bin\Debug\net8.0\InterpreterPattern.deps.json
+C:\Users\shrah\source\repos\DesignPattern\InterpreterPattern\bin\Debug\net8.0\InterpreterPattern.runtimeconfig.json
+C:\Users\shrah\source\repos\DesignPattern\InterpreterPattern\bin\Debug\net8.0\InterpreterPattern.dll
+C:\Users\shrah\source\repos\DesignPattern\InterpreterPattern\bin\Debug\net8.0\InterpreterPattern.pdb
+C:\Users\shrah\source\repos\DesignPattern\InterpreterPattern\obj\Debug\net8.0\InterpreterPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shrah\source\repos\DesignPattern\InterpreterPattern\obj\Debug\net8.0\InterpreterPattern.AssemblyInfoInputs.cache
+C:\Users\shrah\source\repos\DesignPattern\InterpreterPattern\obj\Debug\net8.0\InterpreterPattern.AssemblyInfo.cs
+C:\Users\shrah\source\repos\DesignPattern\InterpreterPattern\obj\Debug\net8.0\InterpreterPattern.csproj.CoreCompileInputs.cache
+C:\Users\shrah\source\repos\DesignPattern\InterpreterPattern\obj\Debug\net8.0\InterpreterPattern.sourcelink.json
+C:\Users\shrah\source\repos\DesignPattern\InterpreterPattern\obj\Debug\net8.0\InterpreterPattern.dll
+C:\Users\shrah\source\repos\DesignPattern\InterpreterPattern\obj\Debug\net8.0\refint\InterpreterPattern.dll
+C:\Users\shrah\source\repos\DesignPattern\InterpreterPattern\obj\Debug\net8.0\InterpreterPattern.pdb
+C:\Users\shrah\source\repos\DesignPattern\InterpreterPattern\obj\Debug\net8.0\InterpreterPattern.genruntimeconfig.cache
+C:\Users\shrah\source\repos\DesignPattern\InterpreterPattern\obj\Debug\net8.0\ref\InterpreterPattern.dll
